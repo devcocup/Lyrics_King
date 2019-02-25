@@ -1,19 +1,16 @@
 # Lyrics King <img src="_github/lk-logo.gif" width="80">
 
 ![](https://img.shields.io/github/license/SKempin/Lyrics-King-React-Native.svg?style=flat-square)
-![](https://img.shields.io/github/stars/SKempin/Lyrics-King-React-Native.svg?style=flat-square)
-![](https://img.shields.io/github/forks/SKempin/Lyrics-King-React-Native.svg?style=flat-square)
 [![Build Status](https://travis-ci.org/SKempin/Lyrics-King-React-Native.svg?branch=master)](https://travis-ci.org/SKempin/Lyrics-King-React-Native)
 [![Mentioned in Awesome Expo](https://awesome.re/mentioned-badge.svg)](https://github.com/expo/awesome-expo)
 
 
 A [React Native](https://facebook.github.io/react-native/) native app utilising [Expo](https://expo.io/), [React Navigation](https://reactnavigation.org) and fetching data from multiple API's ([Deezer](https://developers.deezer.com/) and [Lyrics.OVH](https://www.lyrics.ovh)). UI built with [Adobe XD](https://www.adobe.com/uk/products/xd.html).
 <br><br>
-Built as a personal training project for [React Native](https://facebook.github.io/react-native/). Designed in [Adobe XD](https://www.adobe.com/uk/products/xd.html). Design and development by [Stephen Kempin](https://www.stephenkempin.co.uk). This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+Built as a personal training project for [React Native](https://facebook.github.io/react-native/). Designed in [Adobe XD](https://www.adobe.com/uk/products/xd.html). This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
-### [Expo Demo Link](https://expo.io/@skempin/lyrics-king)
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/header-overview.jpg" width="900"  alt="Lyrics King - React Native Expo app">
+<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/header-overview.jpg" width="900"  alt="Lyrics King - React Native Expo app">
 
 ## Contents
 
@@ -49,24 +46,24 @@ Built as a personal training project for [React Native](https://facebook.github.
 ### Video Preview
 
 <a href="https://expo.io/@skempin/lyrics-king">
-	<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/video.gif" width="350" >
+	<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/video.gif" width="350" >
 </a>
 
 ### Search Screen
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/search.jpg" width="270" alt="Lyrics King - Search screen" hspace="5"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/suggestions.jpg" width="270" alt="Lyrics King - Suggestions on search screen">
+<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/search.jpg" width="270" alt="Lyrics King - Search screen" hspace="5"><img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/suggestions.jpg" width="270" alt="Lyrics King - Suggestions on search screen">
 
 ### Details Screen
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-ariana.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Ariana Grande"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-above.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Above and Beyond"><img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/details-dua.jpg" width="270"  alt="Lyrics King - Details screen, Dua Lipa">
+<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/details-ariana.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Ariana Grande"><img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/details-above.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Above and Beyond"><img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/details-dua.jpg" width="270"  alt="Lyrics King - Details screen, Dua Lipa">
 
 ### About Screen
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/about.jpg" width="270" alt="Lyrics King - About screen">
+<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/about.jpg" width="270" alt="Lyrics King - About screen">
 
 ### Navigation (Drawer)
 
-<img src="https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/screenshots/navigation.jpg" width="270" alt="Lyrics King - Navigation drawer">
+<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/navigation.jpg" width="270" alt="Lyrics King - Navigation drawer">
 
 ## [Expo Project Page](https://expo.io/@skempin/lyrics-king)
 
@@ -74,7 +71,7 @@ This project has been built using [Expo](https://expo.io/). Please install `npm 
 
 Scan the below QR code to open the project on Android:
 
-![](https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/qr.png)
+![](https://github.com/webmobi59/lyrics_king/blob/master/_github/qr.png)
 
 <br>
 
@@ -153,11 +150,6 @@ Due to time constraints there are several features that I haven’t been able to
 
 Other contributions and suggestions are always very welcome! [Contact me](https://www.stephenkempin.co.uk) if you wish to discuss anything.
 
-## Author
-
-[Stephen Kempin](https://www.stephenkempin.co.uk)
-
-[Lyrics King Project Github](https://github.com/SKempin/Lyrics-King-React-Native)
 
 ## Google Play Store
 
@@ -165,14 +157,6 @@ View my commercial apps on the [SK-UK Google Play Store](https://play.google.com
 
 <a href='https://play.google.com/store/apps/developer?id=SK+-+UK&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='SK-UK Google Play Store' src='https://github.com/SKempin/Lyrics-King-React-Native/blob/master/_github/google-play.jpg' width='180px'></a>
 
-## Donate
-
-If you like this project and wish to say to say thanks - I'm always open to a coffee!  :coffee:
-
-<a href="https://www.buymeacoffee.com/oru9CZh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" width='180px' ></a>
-
 ## License
 
-[MIT](https://github.com/SKempin/Lyrics-King-React-Native/blob/master/LICENSE)
-
-You are welcome to use this however you wish within the MIT license, but please retain [my credentials](https://www.stephenkempin.co.uk/) and links back to [this repo](https://github.com/SKempin/Lyrics-King-React-Native).
+[MIT](https://github.com/webmobi59/lyrics_king/blob/master/LICENSE)
