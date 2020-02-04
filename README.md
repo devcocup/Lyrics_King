@@ -10,7 +10,7 @@ A [React Native](https://facebook.github.io/react-native/) native app utilising 
 Built as a personal training project for [React Native](https://facebook.github.io/react-native/). Designed in [Adobe XD](https://www.adobe.com/uk/products/xd.html). This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 
-<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/header-overview.jpg" width="900"  alt="Lyrics King - React Native Expo app">
+<img src="https://github.com/typescript59/lyrics_king/blob/master/_github/header-overview.jpg" width="900"  alt="Lyrics King - React Native Expo app">
 
 ## Contents
 
@@ -46,24 +46,24 @@ Built as a personal training project for [React Native](https://facebook.github.
 ### Video Preview
 
 <a href="https://expo.io/@skempin/lyrics-king">
-	<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/video.gif" width="350" >
+	<img src="https://github.com/typescript59/lyrics_king/blob/master/_github/screenshots/video.gif" width="350" >
 </a>
 
 ### Search Screen
 
-<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/search.jpg" width="270" alt="Lyrics King - Search screen" hspace="5"><img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/suggestions.jpg" width="270" alt="Lyrics King - Suggestions on search screen">
+<img src="https://github.com/typescript59/lyrics_king/blob/master/_github/screenshots/search.jpg" width="270" alt="Lyrics King - Search screen" hspace="5"><img src="https://github.com/typescript59/lyrics_king/blob/master/_github/screenshots/suggestions.jpg" width="270" alt="Lyrics King - Suggestions on search screen">
 
 ### Details Screen
 
-<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/details-ariana.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Ariana Grande"><img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/details-above.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Above and Beyond"><img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/details-dua.jpg" width="270"  alt="Lyrics King - Details screen, Dua Lipa">
+<img src="https://github.com/typescript59/lyrics_king/blob/master/_github/screenshots/details-ariana.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Ariana Grande"><img src="https://github.com/typescript59/lyrics_king/blob/master/_github/screenshots/details-above.jpg" width="270" hspace="5" alt="Lyrics King - Details screen, Above and Beyond"><img src="https://github.com/typescript59/lyrics_king/blob/master/_github/screenshots/details-dua.jpg" width="270"  alt="Lyrics King - Details screen, Dua Lipa">
 
 ### About Screen
 
-<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/about.jpg" width="270" alt="Lyrics King - About screen">
+<img src="https://github.com/typescript59/lyrics_king/blob/master/_github/screenshots/about.jpg" width="270" alt="Lyrics King - About screen">
 
 ### Navigation (Drawer)
 
-<img src="https://github.com/webmobi59/lyrics_king/blob/master/_github/screenshots/navigation.jpg" width="270" alt="Lyrics King - Navigation drawer">
+<img src="https://github.com/typescript59/lyrics_king/blob/master/_github/screenshots/navigation.jpg" width="270" alt="Lyrics King - Navigation drawer">
 
 ## [Expo Project Page](https://expo.io/@skempin/lyrics-king)
 
@@ -71,7 +71,7 @@ This project has been built using [Expo](https://expo.io/). Please install `npm 
 
 Scan the below QR code to open the project on Android:
 
-![](https://github.com/webmobi59/lyrics_king/blob/master/_github/qr.png)
+![](https://github.com/typescript59/lyrics_king/blob/master/_github/qr.png)
 
 <br>
 
@@ -148,7 +148,7 @@ Due to time constraints there are several features that I haven’t been able to
 - [ ] [Animations](https://docs.expo.io/versions/latest/react-native/animations) would be a nice touch! Fading in the details screen background image would be priority.
 - [ ] Any general performance improvements.
 
-Other contributions and suggestions are always very welcome! [Contact me](https://www.stephenkempin.co.uk) if you wish to discuss anything.
+Other contributions and suggestions are always very welcome! [Contact me](mailto+typescript59@gmail.com) if you wish to discuss anything.
 
 
 ## Google Play Store
@@ -159,4 +159,4 @@ View my commercial apps on the [SK-UK Google Play Store](https://play.google.com
 
 ## License
 
-[MIT](https://github.com/webmobi59/lyrics_king/blob/master/LICENSE)
+[MIT](https://github.com/typescript59/lyrics_king/blob/master/LICENSE)
